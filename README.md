@@ -1,2 +1,4 @@
 # ShootDragonDoor
-# ShootDragonDoor
+
+npm install
+npm run start
